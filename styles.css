@@ -1,0 +1,33 @@
+body{
+  background-color: #CDF2CA;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+img:hover{
+  background-color:orange;
+}
+h1
+{
+  color: #B91646;
+}
+h3
+{
+  color: #B91646;
+  font-size: 23px;
+}
+p{
+  font-size: 18px;
+}
+ul
+{
+  font-size: 18px;
+}
+ol
+{
+  font-size: 18px;
+}
